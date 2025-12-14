@@ -8,7 +8,7 @@ A pixel-perfect user interface clone of the WhatsApp mobile application built wi
 
 | **Chat List View** |
 |:---:|
-| <img src="screenshot.png" width="300" alt="WhatsApp Clone Chat Screen" /> |
+| <img src="Screenshot_1765756320.png" width="300" alt="WhatsApp Clone Chat Screen" /> |
 | *Faithful recreation of the main WhatsApp Chat interface* |
 
 ---
@@ -34,7 +34,7 @@ A pixel-perfect user interface clone of the WhatsApp mobile application built wi
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/whatsapp-clone-ui.git](https://github.com/YOUR_USERNAME/whatsapp-clone-ui.git)
+    git clone [https://github.com/saadullah-001/WhatsApp-Clone-UI.git](https://github.com/saadullah-001/WhatsApp-Clone-UI.git)
     ```
 
 2.  **Navigate to the project directory**
@@ -57,4 +57,4 @@ A pixel-perfect user interface clone of the WhatsApp mobile application built wi
 ### 👤 Author
 
 **Muhammad SaadUllah**
-- [GitHub Profile](https://github.com/YOUR_USERNAME)
+- [GitHub Profile](https://github.com/saadullah-001)
